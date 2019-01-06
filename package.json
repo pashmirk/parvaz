@@ -1,0 +1,28 @@
+{
+    "name": "parvaz",
+    "version": "1.0.0",
+    "description": "Task 1, a webserver routing requests to Bob's Epic Drone Shac. ",
+    "main": "start.mjs",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/pashmirk/parvaz.git"
+    },
+    "keywords": [
+        "drone"
+    ],
+    "author": "Shiva Karimi",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/pashmirk/parvaz/issues"
+    },
+    "homepage": "https://github.com/pashmirk/parvaz#readme",
+    "dependencies": {
+        "dotenv": "^6.2.0",
+        "expressjs": "^1.0.1",
+        "jslint": "^0.12.0",
+        "nodemon": "^1.18.9"
+    }
+}
